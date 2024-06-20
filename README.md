@@ -9,17 +9,17 @@ This project aims to create a simple sales report using Power Query for data pro
 1. **Page 1: Relatório de Vendas Conciliando Produtos e seus Segmentos**
    - This page provides an overview of sales, segmenting products according to their categories. It is an important tool for understanding how different product segments are performing in the market.
 
-![página](imgs/pagina-1)
+![página](imgs/pagina-1.png)
 
 2. **Page 2: Relatório de Vendas considerando Países e Lucros**
    - Here, the analysis focuses on the countries where sales occurred, highlighting the profits generated in each. It is essential for identifying the most profitable markets and where sales strategies are most successful.
 
-![página](imgs/pagina-2)
+![página](imgs/pagina-2.png)
 
 3. **Page 3: Distribuição de Lucros, e Unidades Vendidas por País e Segmento**
    - The last page provides a detailed distribution of profits and the number of units sold, cross-referencing the data by country and product segment. This analysis helps understand the combined performance of product segments in different geographic regions.
 
-![página](imgs/pagina-1)
+![página](imgs/pagina-1.png)
 
 ## Technologies Used
 
